@@ -72,13 +72,32 @@ Isn&rsquo;t it great?
 
 <aside class="sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
 	
+<div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="//google.com/search">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://davelnewton.github.io/code-notes-blog" />
+	</form>
+</div>
 	
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/code-notes-blog/post/20170714-sample-post-2/">20170714 Sample Post 2</a></li>
+			<li class="widget__item"><a class="widget__link" href="/code-notes-blog/post/20170714-sample-post-1/">20170714 Sample Post 1</a></li>
+		</ul>
+	</div>
+</div>
 
 	
 	
 	
-	<p class="sidebar__warning"><strong>WARNING:</strong><br>Please activate at least one sidebar widget.</p>
 </aside>
+
 	</div>
 		<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
 			<div class="container container-inner">
