@@ -13,6 +13,12 @@
   </url>
   
   <url>
+    <loc>https://davelnewton.github.io/code-notes-blog/</loc>
+    <lastmod>2017-07-14T16:08:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://davelnewton.github.io/code-notes-blog/categories/</loc>
     <priority>0</priority>
   </url>
@@ -32,12 +38,6 @@
   <url>
     <loc>https://davelnewton.github.io/code-notes-blog/tags/</loc>
     <lastmod>2017-07-14T15:57:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://davelnewton.github.io/code-notes-blog/</loc>
-    <lastmod>2017-07-14T16:08:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
